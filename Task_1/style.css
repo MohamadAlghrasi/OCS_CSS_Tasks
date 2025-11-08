@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.learners-table {
+  width: 500px;
+  margin: 0px auto;
+}
+
+hr {
+  width: 500px;
+  margin: 10px auto;
+  margin-bottom: 10px;
+}
+
+h4 {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.learners-table td,
+th {
+  border: 2px solid;
+  padding: 5px;
+}
+
+.learners-table th {
+  background-color: rgb(242, 255, 0);
+  text-align: right;
+}
+
+.learners-table .ninja-a {
+  background-color: rgb(255, 198, 198);
+  text-align: center;
+}
+
+.learners-table .best-learner {
+  font-weight: bold;
+  text-align: center;
+}
